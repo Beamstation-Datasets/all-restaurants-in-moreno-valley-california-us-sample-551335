@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Detailed restaurant dataset for Moreno Valley, California, a growing city of 208k+. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Moreno Valley, California, US",
+  "export_job_id": "a16c1faa-da34-44c8-83e0-7af24bdd9d30",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 551335,
+  "location_name": "Moreno Valley",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-moreno-valley-california-us-sample-551335",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/551335/beamstation_551335_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.97,
+  "sample_records": 35,
+  "sample_sha256": "2115a1555969763297b13ee26bb1241bc47ecac2b698816cc4e607f5f9dd30e0",
+  "sample_size_bytes": 131006,
+  "total_records": 351,
+  "updated_at": "2026-04-09T10:39:52.317084+00:00"
+}
