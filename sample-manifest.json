@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ca9abe2b-b84d-437b-aee6-46155cf4d084",
+  "export_job_id": "3048eac2-45e2-4301-881a-8f2e3c37c2b5",
   "id_short": 551335,
-  "published_at": "2026-04-19T19:17:51Z",
+  "published_at": "2026-04-23T19:05:00Z",
   "repo_name": "all-restaurants-in-moreno-valley-california-us-sample-551335",
   "sample_asset_name": "beamstation_551335_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/551335/beamstation_551335_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 32,
-  "sample_sha256": "0f12b73d24abe6b17775bd3ff6df02640cc1063f247716784f237089be4ccd99",
-  "sample_size_bytes": 127756,
-  "total_records": 329
+  "sample_records": 30,
+  "sample_sha256": "65dd3175af3de6b8bc507b9434af13f71f94c9672385cc6f7ffeadfb37ad06bd",
+  "sample_size_bytes": 126526,
+  "total_records": 303
 }
